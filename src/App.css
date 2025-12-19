@@ -1,0 +1,13 @@
+/* Loading Spinner Styles */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
+
+.spinner {
+  font-size: 1.5rem;
+  color: #666;
+  text-align: center;
+}
